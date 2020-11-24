@@ -1,6 +1,6 @@
-import { DancingIcon } from "./dancingIcon";
-import { M8buyIcon } from "./m8buyIcon";
-import MoneyBagIcon from "./moneybagIcon";
+import { DancingIcon } from "./icons/dancingIcon";
+import { M8buyIcon } from "./icons/m8buyIcon";
+import {MoneyBagIcon} from "./icons/moneybagIcon";
 
 export function ProductMessage(){
     

@@ -1,6 +1,6 @@
 import * as React from "react"
 
-function MoneyBagIcon(props) {
+export function MoneyBagIcon(props) {
   return (
     <svg
       width={24}
@@ -32,4 +32,4 @@ function MoneyBagIcon(props) {
   )
 }
 
-export default MoneyBagIcon
+
